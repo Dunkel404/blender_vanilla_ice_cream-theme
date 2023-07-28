@@ -112,7 +112,7 @@
             inner="#f8f299ff"
             inner_sel="#5f541fff"
             item="#000000ff"
-            text="#fff8f4"
+            text="#fff8f6"
             text_sel="#fff2a8"
             show_shaded="FALSE"
             shadetop="0"
@@ -124,10 +124,10 @@
         <wcol_toggle>
           <ThemeWidgetColors
             outline="#221307"
-            inner="#54503bff"
+            inner="#54422fff"
             inner_sel="#cfcc93ff"
             item="#252525ff"
-            text="#ffe8be"
+            text="#ffeec1"
             text_sel="#3d331f"
             show_shaded="FALSE"
             shadetop="0"
@@ -218,7 +218,7 @@
             inner_sel="#6d5b3bff"
             item="#d9d9d9ff"
             text="#9b8c7f"
-            text_sel="#ffe6e0"
+            text_sel="#fff2e7"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -277,7 +277,7 @@
             inner="#c3bda483"
             inner_sel="#ffffffff"
             item="#ac9256ff"
-            text="#e6d7cb"
+            text="#d4c7bc"
             text_sel="#fff4e6"
             show_shaded="FALSE"
             shadetop="0"
@@ -307,7 +307,7 @@
             inner="#ffdfb2ff"
             inner_sel="#ffd9a8ff"
             item="#b38a3eff"
-            text="#ffe7d6"
+            text="#3a2815"
             text_sel="#1d1108"
             show_shaded="FALSE"
             shadetop="0"
@@ -558,33 +558,33 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#ffcc87"
+        selected_file="#f5e4a9"
         row_alternate="#ffffff04"
         >
         <space>
           <ThemeSpaceGeneric
             back="#887454"
             title="#ffffff"
-            text="#e6e6e6"
+            text="#ffffff"
             text_hi="#ffffff"
             header="#b89f6ab3"
-            header_text="#eeeeee"
+            header_text="#ffffff"
             header_text_hi="#ffffff"
-            button="#ffe19a00"
+            button="#ffe09a00"
             button_title="#ffffff"
-            button_text="#cccccc"
+            button_text="#ffffff"
             button_text_hi="#ffffff"
             navigation_bar="#303030ff"
             execution_buts="#303030ff"
             tab_active="#303030"
             tab_inactive="#1d1d1d"
-            tab_back="#181818ff"
+            tab_back="#161616ff"
             tab_outline="#3d3d3d"
             >
             <panelcolors>
               <ThemePanelColors
                 header="#79673cff"
-                back="#8d7853ff"
+                back="#83704dff"
                 sub_back="#0000001f"
                 >
               </ThemePanelColors>
