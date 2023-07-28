@@ -25,15 +25,25 @@
 <h2> Screenshots </h2>
 
 ![Solid View](screenshots/Screen_solid-view.png)
+
 ![Material View](screenshots/Screen_material-view.png)
+
 ![Rendered View](screenshots/Screen_rendered-view.png)
+
 ![Python Console](screenshots/Screen_Python_Console.png)
+
 ![Edit Mode](screenshots/Screen_edit-modepng.png)
+
 ![Shader Editor](screenshots/Screen_Shader-editor.png)
+
 ![Python Console](screenshots/Screen_Python_Console.png)
+
 ![Properties](screenshots/Screen_Properties.png)
+
 ![OutLiner](screenshots/Screen_Outliner.png)
+
 ![Note Editor](screenshots/Screen_Note-editor.png)
+
 ![File Browser](screenshots/Screen_File-browser.png)
  
 Indulge in the sweetness of Blender Vanilla Ice Cream theme as you dive into a modeling and animation experience that is as smooth and enjoyable as savoring the perfect vanilla ice cream! 🍦😊
